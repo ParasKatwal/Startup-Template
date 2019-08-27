@@ -1,0 +1,21 @@
+body
+{
+    background-color: #ffffff;
+    color: #000000;
+    box-sizing: border-box;
+}
+a, a:hover, a:visited, a:focus
+{
+    text-decoration: none;
+    color: inherit;
+}
+a:hover
+{
+    cursor: pointer;
+}
+a
+{
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    transition: 0.5s;  
+}
