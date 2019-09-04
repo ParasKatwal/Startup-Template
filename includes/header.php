@@ -9,5 +9,13 @@
     <link rel="stylesheet" href="assets_front/css/custom.css">
     <link rel="stylesheet" href="assets_front/css/responsive.css" media="screen and (max-width: 1200px)">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <!-- Slick -->
+    <link rel="stylesheet" type="text/css" href="assets_front/css/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="assets_front/css/slick-theme.css"/>
+    <!-- OWL -->
+    <link rel="stylesheet" href="assets_front/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets_front/css/owl.theme.default.min.css">
+    <!-- LIGHTBOX -->
+    <link rel="stylesheet" href="assets_front/css/lightbox.min.css">
 </head>
 <body> 
